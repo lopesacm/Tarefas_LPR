@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\bin\Debug\net9.0\exercicio01csharp.exe
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\bin\Debug\net9.0\exercicio01csharp.deps.json
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\bin\Debug\net9.0\exercicio01csharp.runtimeconfig.json
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\bin\Debug\net9.0\exercicio01csharp.dll
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\bin\Debug\net9.0\exercicio01csharp.pdb
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\obj\Debug\net9.0\exercicio01csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\obj\Debug\net9.0\exercicio01csharp.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\obj\Debug\net9.0\exercicio01csharp.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\obj\Debug\net9.0\exercicio01csharp.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\obj\Debug\net9.0\exercicio01csharp.sourcelink.json
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\obj\Debug\net9.0\exercicio01csharp.dll
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\obj\Debug\net9.0\refint\exercicio01csharp.dll
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\obj\Debug\net9.0\exercicio01csharp.pdb
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\obj\Debug\net9.0\exercicio01csharp.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\lp\Tarefa_LPR\exercicio01csharp\obj\Debug\net9.0\ref\exercicio01csharp.dll
